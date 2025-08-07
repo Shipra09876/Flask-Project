@@ -13,8 +13,8 @@ This project is a RESTful API built using Flask and MongoDB, providing complete 
 
  **Clone the Repository**
    ```bash
-   git clone https://github.com/Shipra09876/Flask-Project.git
-   cd Flask-Project
+   git clone https://github.com/your-username/your-repo-name.git
+   cd your-repo-name
    ```
 
 ## Build and Start the Containers
