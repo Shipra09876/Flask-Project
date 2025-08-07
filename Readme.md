@@ -2,8 +2,31 @@
 
 This project is a RESTful API built using Flask and MongoDB, providing complete CRUD functionality (Create, Read, Update, Delete) for user management
 
-## Demo
+## 🐳 Run with Docker
 
+### Prerequisites
+
+- Docker Desktop installed and running
+- Docker Compose installed (`docker compose` command should work)
+  
+### 🚀 Steps to Run the App
+
+ **Clone the Repository**
+   ```bash
+   git clone https://github.com/Shipra09876/Flask-Project.git
+   cd Flask-Project
+   ```
+
+## Build and Start the Containers
+   ```bash
+    docker compose up --build
+   ```
+
+## Visit the Application
+ ```bash
+    Open your browser and go to: http://localhost:8000
+
+ ```
 
 ## Installation
 ```bash
